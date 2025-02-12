@@ -1,6 +1,6 @@
 # 🚀 Welcome to My Awesome Landing Page! 🌟
 
-This is a sleek, fully responsive landing page built purely with HTML & CSS—no frameworks, no fancy JavaScript, just pure craftsmanship! 🎨✨
+This sleek landing page is built purely with HTML & CSS—no frameworks, no fancy JavaScript, just pure craftsmanship! 🎨✨
 
 💡 **What’s Inside?**
 ✅ Clean & Modern Design – Aesthetic layout with pixel-perfect spacing.
